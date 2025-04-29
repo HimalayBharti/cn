@@ -1,0 +1,14 @@
+enable
+password
+configure t
+hostname
+enable password <password>
+enable secret <secrete password>
+banner motd <delimeter()$ message(hello) delimeter($)>
+exit
+enter
+exit
+enable
+exit
+enable
+configure t

@@ -1,0 +1,10 @@
+ipconfig
+ipconfig (Internet Protocol Configuration) is a command-line utility in Windows operating systems that displays the current network configuration details of the system, including IP address, subnet mask, default gateway, and DNS servers for each network adapter.
+ping
+ping is a command-line utility used to test the connectivity between the host computer and a specified destination by sending Internet Control Message Protocol echo request packets and waiting for a response.
+nslookup
+nslookup (Name Server Lookup) is a command-line tool used to query Domain Name System (DNS) servers for information about domain names, such as their corresponding IP addresses.
+tracert
+tracert (Trace Route) is a command-line diagnostic tool used in Windows operating systems to trace the path that data packets take from the source computer to a destination address across an IP network.
+hostname
+hostname is a command-line utility that displays the name of the current computer or system on a network. This name uniquely identifies the device within a network and is often used for network management and identification purposes.

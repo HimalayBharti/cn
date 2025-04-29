@@ -1,0 +1,19 @@
+for switch
+enable
+config t
+line vty 0 4
+password <password>
+login
+exit
+username admin password <admin password>
+line vty 0 4
+#login <local>
+exit
+interface vlan 1
+ip address <ip address subnetmask>
+no shutdown
+enter
+
+For device
+
+telnet <ip address>
